@@ -1,0 +1,14 @@
+.DS_STORE
+
+# Python bytecode
+__pycache__
+
+# Front-end dependencies
+app/static/lib
+
+# Local configs
+config/*-local.py
+
+# Python virtual environment
+venv
+
